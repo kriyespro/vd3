@@ -13,7 +13,7 @@ import ClientOnly from './components/ClientOnly';
 import getCurrentUser from './actions/getCurrentUser';
 
 export const metadata = {
-  title: 'FDP INDIA',
+  title: 'FDP INDIA update',
   description: 'FDP INDIA',
 }
 
