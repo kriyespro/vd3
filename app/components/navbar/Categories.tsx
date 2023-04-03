@@ -63,12 +63,12 @@ export const categories = [
     description: 'This property has skiing activies!'
   },
   {
-    label: 'Castles',
+    label: 'Pal',
     icon: GiCastle,
     description: 'This property is an ancient castle!'
   },
   {
-    label: 'Caves',
+    label: 'Patiya',
     icon: GiCaveEntrance,
     description: 'This property is in a spooky cave!'
   },
