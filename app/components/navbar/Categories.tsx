@@ -73,27 +73,27 @@ export const categories = [
     description: 'This property is in a spooky cave!'
   },
   {
-    label: 'Camping',
+    label: 'Althan',
     icon: GiForestCamp,
     description: 'This property offers camping activities!'
   },
   {
-    label: 'Arctic',
+    label: 'Jahangirpura',
     icon: BsSnow,
     description: 'This property is in arctic environment!'
   },
   {
-    label: 'Desert',
+    label: 'Jahangirpura',
     icon: GiCactus,
     description: 'This property is in the desert!'
   },
   {
-    label: 'Barns',
+    label: 'Piplod',
     icon: GiBarn,
     description: 'This property is in a barn!'
   },
   {
-    label: 'Lux',
+    label: 'Varachha',
     icon: IoDiamond,
     description: 'This property is brand new and luxurious!'
   }
