@@ -48,17 +48,17 @@ export const categories = [
     description: 'This is property has a beautiful pool!'
   },
   {
-    label: 'Islands',
+    label: 'Udhana',
     icon: GiIsland,
     description: 'This property is on an island!'
   },
   {
-    label: 'Lake',
+    label: 'Sachin',
     icon: GiBoatFishing,
     description: 'This property is near a lake!'
   },
   {
-    label: 'Skiing',
+    label: 'Olpad',
     icon: FaSkiing,
     description: 'This property has skiing activies!'
   },
