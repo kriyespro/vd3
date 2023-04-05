@@ -1,5 +1,4 @@
 import { SafeUser } from "@/app/types";
-
 import Categories from "./Categories";
 import Container from "../Container";
 import Logo from "./Logo";

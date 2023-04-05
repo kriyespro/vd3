@@ -24,12 +24,12 @@ import Container from '../Container';
 export const categories = [
   {
     label: 'Vesu',
-    icon: TbBeach,
+    icon: MdOutlineVilla,
     description: 'This property is close to the beach!',
   },
   {
     label: 'Adajan',
-    icon: GiWindmill,
+    icon: MdOutlineVilla,
     description: 'This property is has windmills!',
   },
   {
@@ -39,62 +39,62 @@ export const categories = [
   },
   {
     label: 'Ring Road',
-    icon: TbMountain,
+    icon: MdOutlineVilla,
     description: 'This property is in the countryside!'
   },
   {
     label: 'Palanpur',
-    icon: TbPool,
+    icon: MdOutlineVilla,
     description: 'This is property has a beautiful pool!'
   },
   {
     label: 'Udhana',
-    icon: GiIsland,
+    icon: MdOutlineVilla,
     description: 'This property is on an island!'
   },
   {
     label: 'Sachin',
-    icon: GiBoatFishing,
+    icon: MdOutlineVilla,
     description: 'This property is near a lake!'
   },
   {
     label: 'Olpad',
-    icon: FaSkiing,
+    icon: MdOutlineVilla,
     description: 'This property has skiing activies!'
   },
   {
     label: 'Pal',
-    icon: GiCastle,
+    icon: MdOutlineVilla,
     description: 'This property is an ancient castle!'
   },
   {
     label: 'Patiya',
-    icon: GiCaveEntrance,
+    icon: MdOutlineVilla,
     description: 'This property is in a spooky cave!'
   },
   {
     label: 'Althan',
-    icon: GiForestCamp,
+    icon: MdOutlineVilla,
     description: 'This property offers camping activities!'
   },
   {
     label: 'Jahangirpura',
-    icon: BsSnow,
+    icon: MdOutlineVilla,
     description: 'This property is in arctic environment!'
   },
   {
     label: 'Jahangirpura',
-    icon: GiCactus,
+    icon: MdOutlineVilla,
     description: 'This property is in the desert!'
   },
   {
     label: 'Piplod',
-    icon: GiBarn,
+    icon: MdOutlineVilla,
     description: 'This property is in a barn!'
   },
   {
     label: 'Varachha',
-    icon: IoDiamond,
+    icon: MdOutlineVilla,
     description: 'This property is brand new and luxurious!'
   }
 ]
