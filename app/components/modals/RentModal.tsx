@@ -131,7 +131,7 @@ const RentModal = () => {
   let bodyContent = (
     <div className="flex flex-col gap-8">
       <Heading
-        title="Which of these best describes your place?"
+        title="Which of these best describes your Property?"
         subtitle="Pick a Area"
       />
       <div 
@@ -185,22 +185,22 @@ const RentModal = () => {
         <Counter 
           onChange={(value) => setCustomValue('guestCount', value)}
           value={guestCount}
-          title="Guests" 
-          subtitle="How many guests do you allow?"
+          title="BedRoom" 
+          subtitle="How many BedRoom do you Have?"
         />
         <hr />
         <Counter 
           onChange={(value) => setCustomValue('roomCount', value)}
           value={roomCount}
-          title="Rooms" 
-          subtitle="How many rooms do you have?"
+          title="BathRooms" 
+          subtitle="How many BathRooms do you have?"
         />
         <hr />
         <Counter 
           onChange={(value) => setCustomValue('bathroomCount', value)}
           value={bathroomCount}
-          title="Bathrooms" 
-          subtitle="How many bathrooms do you have?"
+          title="Floor" 
+          subtitle="How many Floor do you have?"
         />
       </div>
     )
@@ -210,7 +210,7 @@ const RentModal = () => {
     bodyContent = (
       <div className="flex flex-col gap-8">
         <Heading
-          title="Add a photo of your place"
+          title="Add a photo of your Property"
           subtitle="Show guests what your place looks like!"
         />
         <ImageUpload
@@ -225,7 +225,7 @@ const RentModal = () => {
     bodyContent = (
       <div className="flex flex-col gap-8">
         <Heading
-          title="How would you describe your place?"
+          title="How would you describe your Property?"
           subtitle="Short and sweet works best!"
         />
         <Input
@@ -254,7 +254,7 @@ const RentModal = () => {
       <div className="flex flex-col gap-8">
         <Heading
           title="Now, set your price"
-          subtitle="How much do you charge per night?"
+          subtitle="How much Property Price?"
         />
         <Input
           id="price"
