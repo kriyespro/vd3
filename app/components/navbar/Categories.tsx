@@ -83,7 +83,7 @@ export const categories = [
     description: 'This property is in arctic environment!'
   },
   {
-    label: 'Jahangirpura',
+    label: 'Jahangirbad',
     icon: GiCastle,
     description: 'This property is in the desert!'
   },
