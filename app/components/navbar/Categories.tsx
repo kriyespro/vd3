@@ -24,77 +24,77 @@ import Container from '../Container';
 export const categories = [
   {
     label: 'Vesu',
-    icon: MdOutlineVilla,
+    icon: GiCastle,
     description: 'This property is close to the beach!',
   },
   {
     label: 'Adajan',
-    icon: MdOutlineVilla,
+    icon: GiCastle,
     description: 'This property is has windmills!',
   },
   {
     label: 'VIP Road',
-    icon: MdOutlineVilla,
+    icon: GiCastle,
     description: 'This property is modern!'
   },
   {
     label: 'Ring Road',
-    icon: MdOutlineVilla,
+    icon: GiCastle,
     description: 'This property is in the countryside!'
   },
   {
     label: 'Palanpur',
-    icon: MdOutlineVilla,
+    icon: GiCastle,
     description: 'This is property has a beautiful pool!'
   },
   {
     label: 'Udhana',
-    icon: MdOutlineVilla,
+    icon: GiCastle,
     description: 'This property is on an island!'
   },
   {
     label: 'Sachin',
-    icon: MdOutlineVilla,
+    icon: GiCastle,
     description: 'This property is near a lake!'
   },
   {
     label: 'Olpad',
-    icon: MdOutlineVilla,
+    icon: GiCastle,
     description: 'This property has skiing activies!'
   },
   {
     label: 'Pal',
-    icon: MdOutlineVilla,
+    icon: GiCastle,
     description: 'This property is an ancient castle!'
   },
   {
     label: 'Patiya',
-    icon: MdOutlineVilla,
+    icon: GiCastle,
     description: 'This property is in a spooky cave!'
   },
   {
     label: 'Althan',
-    icon: MdOutlineVilla,
+    icon: GiCastle,
     description: 'This property offers camping activities!'
   },
   {
     label: 'Jahangirpura',
-    icon: MdOutlineVilla,
+    icon: GiCastle,
     description: 'This property is in arctic environment!'
   },
   {
     label: 'Jahangirpura',
-    icon: MdOutlineVilla,
+    icon: GiCastle,
     description: 'This property is in the desert!'
   },
   {
     label: 'Piplod',
-    icon: MdOutlineVilla,
+    icon: GiCastle,
     description: 'This property is in a barn!'
   },
   {
     label: 'Varachha',
-    icon: MdOutlineVilla,
+    icon: GiCastle,
     description: 'This property is brand new and luxurious!'
   }
 ]
