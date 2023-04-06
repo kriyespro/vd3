@@ -6,7 +6,7 @@ import {
   GiBarn, 
   GiBoatFishing, 
   GiCactus, 
-  GiCastle, 
+  GiVillage, //Durga
   GiCaveEntrance, 
   GiForestCamp, 
   GiIsland,
@@ -16,7 +16,8 @@ import { FaSkiing } from 'react-icons/fa';
 import { BsSnow } from 'react-icons/bs';
 import { IoDiamond } from 'react-icons/io5';
 import { MdOutlineVilla } from 'react-icons/md';
-
+// Durga
+import { FcHome } from 'react-icons/fc';
 import CategoryBox from "../CategoryBox";
 import Container from '../Container';
 
@@ -24,77 +25,77 @@ import Container from '../Container';
 export const categories = [
   {
     label: 'Vesu',
-    icon: GiCastle,
+    icon: GiVillage,
     description: 'This property is close to the beach!',
   },
   {
     label: 'Adajan',
-    icon: GiCastle,
+    icon: GiVillage,
     description: 'This property is has windmills!',
   },
   {
     label: 'VIP Road',
-    icon: GiCastle,
+    icon: GiVillage,
     description: 'This property is modern!'
   },
   {
     label: 'Ring Road',
-    icon: GiCastle,
+    icon: GiVillage,
     description: 'This property is in the countryside!'
   },
   {
     label: 'Palanpur',
-    icon: GiCastle,
+    icon: GiVillage,
     description: 'This is property has a beautiful pool!'
   },
   {
     label: 'Udhana',
-    icon: GiCastle,
+    icon: GiVillage,
     description: 'This property is on an island!'
   },
   {
     label: 'Sachin',
-    icon: GiCastle,
+    icon: GiVillage,
     description: 'This property is near a lake!'
   },
   {
     label: 'Olpad',
-    icon: GiCastle,
+    icon: GiVillage,
     description: 'This property has skiing activies!'
   },
   {
     label: 'Pal',
-    icon: GiCastle,
+    icon: GiVillage,
     description: 'This property is an ancient castle!'
   },
   {
     label: 'Patiya',
-    icon: GiCastle,
+    icon: GiVillage,
     description: 'This property is in a spooky cave!'
   },
   {
     label: 'Althan',
-    icon: GiCastle,
+    icon: GiVillage,
     description: 'This property offers camping activities!'
   },
   {
     label: 'Jahangirpura',
-    icon: GiCastle,
+    icon: GiVillage,
     description: 'This property is in arctic environment!'
   },
   {
     label: 'Jahangirbad',
-    icon: GiCastle,
+    icon: GiVillage,
     description: 'This property is in the desert!'
   },
   {
     label: 'Piplod',
-    icon: GiCastle,
+    icon: GiVillage,
     description: 'This property is in a barn!'
   },
   {
     label: 'Varachha',
-    icon: GiCastle,
+    icon: GiVillage,
     description: 'This property is brand new and luxurious!'
   }
 ]
