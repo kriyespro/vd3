@@ -26,7 +26,7 @@ export const categories = [
   {
     label: 'Vesu',
     icon: GiVillage,
-    description: 'This property is close to the beach!',
+    description: 'Vesu is a suburban area located in South West Zone, of Surat. Vesu is the newest area to develop in terms of public transport ',
   },
   {
     label: 'Adajan',
