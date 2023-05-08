@@ -7,12 +7,12 @@ import "app/globals.css";
 export default function About() {
   return (
     <Container>
-      {/* <Navbar/> */}
+      <Navbar/>
       <div className=" bg-slate-50 pt-100">
         <h1 className="text-xl font-bold bg-amber-500 text-center drop-shadow-lg">
         FastDealProperties - About
         </h1>
-        <p className="text-sm font-light drop-shadow-md">
+        <p className="text-sm  font-light drop-shadow-md">
           This Privacy Policy applies to the https://fastdealproperties.com
           https://fastdealproperties.com recognises the importance of maintaining your
           privacy. We value your privacy and appreciate your trust in us. This
